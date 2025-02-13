@@ -1,0 +1,7 @@
+.vscode/tasks.json
+.vscode/settings.json
+vc140.pdb
+test.pdb
+test.obj
+test.ilk
+test.exe
