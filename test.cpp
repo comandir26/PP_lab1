@@ -78,7 +78,7 @@ void test_mul(){
 int main()
 {
     //test_mul();
-    vector<size_t> sizes{5, 10, 25, 50, 100, 250, 500, 750, 1000};
+    vector<size_t> sizes{5, 10, 25, 50, 100, 250, 500, 750, 1000, 1100};
     vector<vector<int>> times;
     int num_tests = 20;
     for (size_t i = 0; i < sizes.size(); i++){
